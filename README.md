@@ -1,1 +1,3 @@
 # DeepFake-detection
+DeepFakes are synthetic media created using advanced artificial intelligence techniques, often leveraging generative models. These manipulated videos can convincingly mimic real individuals' appearances and spread false information in the society. As a viewer we are not aware of weather the videos is original or fake and end up consuming wrong information. To address this problem we came with approach of detecting the DeepFake videos integrating ResNext and LSTM deep learning models. ResNext is used for capturing facial patters and extracting spatial features while LSTM analyzes frame sequences to detect manipulation across time and verdicts the video as real/fake.
+
